@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ThirdViewController.h
 //  NavigationToy
 //
 //  Created by Tedi Fibri on 3/21/13.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-- (IBAction)rightBarButtonAction:(UIBarButtonItem *)sender;
+@interface ThirdViewController : UIViewController
 
 @end

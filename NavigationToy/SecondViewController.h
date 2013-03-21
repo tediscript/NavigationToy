@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SecondViewController.h
 //  NavigationToy
 //
 //  Created by Tedi Fibri on 3/21/13.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SecondViewController : UIViewController
 - (IBAction)rightBarButtonAction:(UIBarButtonItem *)sender;
 
 @end

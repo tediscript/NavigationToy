@@ -26,4 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+- (IBAction)rightBarButtonAction:(UIBarButtonItem *)sender {
+    [self performSegueWithIdentifier:@"SecondSegue" sender:self];
+}
 @end
